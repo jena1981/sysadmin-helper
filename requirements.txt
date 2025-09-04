@@ -1,0 +1,22 @@
+# SysAdmin Helper - Dipendenze Python
+
+# Il tool è progettato per funzionare con le librerie standard Python 3.6+
+# Non sono richieste dipendenze Python aggiuntive
+
+# Dipendenze di sistema (da installare tramite package manager):
+# - systemd (systemctl, journalctl)
+# - lvm2 (pvdisplay, vgdisplay, lvdisplay)
+# - net-tools (ifconfig, netstat) - opzionale
+# - iproute2 (ip, ss)
+# - util-linux (lsblk, mount, umount)
+# - procps (ps, free, uptime)
+
+# Dipendenze opzionali per funzionalità avanzate:
+# - vnstat (statistiche rete)
+# - iotop (monitoraggio I/O)
+# - lm-sensors (temperature hardware)
+# - auditd (audit di sicurezza)
+
+# Note:
+# La maggior parte delle dipendenze sono preinstallate sui sistemi Linux moderni
+# Il tool è progettato per degradare elegantemente se alcuni comandi non sono disponibili
