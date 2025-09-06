@@ -317,7 +317,7 @@ log_level = debug
 ### Problemi e Bug
 Segnala problemi tramite:
 - **Issue Tracker**: [GitHub Issues](https://github.com/your-org/sysadmin-helper/issues)
-- **Email**: sysadmin-tool-support@yourcompany.com
+- **Email**: valerio.franconi0@gmail.com
 
 ### Richieste Funzionalità
 Le richieste di nuove funzionalità sono benvenute! Usa il template nel repository.
